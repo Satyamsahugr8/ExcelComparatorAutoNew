@@ -19,7 +19,6 @@ import java.util.List;
 
 
 public class ExcelOnlyCount extends JFrame {
-
 	private static final ExcelOnlyCount instance = new ExcelOnlyCount();
 
 	public static ExcelOnlyCount getInstance() {
