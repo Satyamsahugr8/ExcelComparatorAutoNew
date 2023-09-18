@@ -10,6 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ExcelFileJoiner2 {
+
     public static void combinedExcel(String projectPath) {
         try {
             List<String> inputFiles = new ArrayList<>();
