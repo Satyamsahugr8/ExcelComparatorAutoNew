@@ -638,7 +638,7 @@ public class ExcelOnlyCount extends JFrame {
 														destCell.setCellValue(booleanValue);
 														break;
 													case BLANK:
-														System.out.println("Cell is blank");
+//														System.out.println("Cell is blank");
 														break;
 													default:
 														System.out.println("Cell type not recognized");
